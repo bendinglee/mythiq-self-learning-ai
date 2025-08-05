@@ -1,0 +1,9 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+beautifulsoup4==4.13.4
+requests==2.32.4
+numpy==2.3.2
+scikit-learn==1.7.1
+matplotlib==3.10.5
+seaborn==0.13.2
+plotly==6.2.0
